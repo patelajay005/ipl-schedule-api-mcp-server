@@ -32,7 +32,7 @@ public class ScheduleService {
         addMatch(2, 2, "23-03-2025", "Sun", "15:30", "Sunrisers Hyderabad", "Rajasthan Royals", "Hyderabad");
         addMatch(3, 2, "23-03-2025", "Sun", "19:30", "Chennai Super Kings", "Mumbai Indians", "Chennai");
         addMatch(4, 3, "24-03-2025", "Mon", "19:30", "Delhi Capitals", "Lucknow Super Giants", "Visakhapatnam");
-        addMatch(5, 4, "25-03-2025", "Tue", "19:30", "Gujarat Titans", "Punjab Kings", "Ahmedabad");
+        addMatch(5, 4, "25-03-2025", "Tue", "20:30", "Gujarat Titans", "Punjab Kings", "Ahmedabad");
         addMatch(6, 5, "26-03-2025", "Wed", "19:30", "Rajasthan Royals", "Kolkata Knight Riders", "Guwahati");
         addMatch(7, 6, "27-03-2025", "Thu", "19:30", "Sunrisers Hyderabad", "Lucknow Super Giants", "Hyderabad");
         addMatch(8, 7, "28-03-2025", "Fri", "19:30", "Chennai Super Kings", "Royal Challengers Bengaluru", "Chennai");
