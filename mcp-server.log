@@ -1,0 +1,14 @@
+2025-08-27T15:24:54.137+05:30  INFO 12572 --- [ipl-schedule-api-mcp-server] [main] .IplScheduleApiMcpServerApplicationTests : Starting IplScheduleApiMcpServerApplicationTests using Java 21.0.2 with PID 12572 (started by ajayp in C:\java\MCP\ipl-schedule-api-mcp-server)
+2025-08-27T15:24:54.139+05:30  INFO 12572 --- [ipl-schedule-api-mcp-server] [main] .IplScheduleApiMcpServerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2025-08-27T15:24:55.556+05:30  INFO 12572 --- [ipl-schedule-api-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-27T15:24:55.558+05:30  INFO 12572 --- [ipl-schedule-api-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-27T15:24:55.558+05:30  INFO 12572 --- [ipl-schedule-api-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-27T15:24:55.560+05:30  INFO 12572 --- [ipl-schedule-api-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-27T15:24:55.709+05:30  INFO 12572 --- [ipl-schedule-api-mcp-server] [main] .IplScheduleApiMcpServerApplicationTests : Started IplScheduleApiMcpServerApplicationTests in 2.437 seconds (process running for 5.203)
+2025-08-27T18:13:11.339+05:30  INFO 1636 --- [ipl-schedule-api-mcp-server] [main] .IplScheduleApiMcpServerApplicationTests : Starting IplScheduleApiMcpServerApplicationTests using Java 21.0.2 with PID 1636 (started by ajayp in C:\java\MCP\ipl-schedule-api-mcp-server)
+2025-08-27T18:13:11.346+05:30  INFO 1636 --- [ipl-schedule-api-mcp-server] [main] .IplScheduleApiMcpServerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2025-08-27T18:13:12.759+05:30  INFO 1636 --- [ipl-schedule-api-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-08-27T18:13:12.760+05:30  INFO 1636 --- [ipl-schedule-api-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-08-27T18:13:12.761+05:30  INFO 1636 --- [ipl-schedule-api-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-08-27T18:13:12.762+05:30  INFO 1636 --- [ipl-schedule-api-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-08-27T18:13:12.915+05:30  INFO 1636 --- [ipl-schedule-api-mcp-server] [main] .IplScheduleApiMcpServerApplicationTests : Started IplScheduleApiMcpServerApplicationTests in 2.386 seconds (process running for 4.217)
