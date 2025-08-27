@@ -126,7 +126,7 @@ public class ScheduleService {
     // Get all matches
     @Tool(description = "Get all matches for IPL 2025")
     public List<Match> getAllMatches() {
-        System.out.println("Get all matches count : " + matches.size());
+        System.out.println("Get all matches count ::: " + matches.size());
         return matches;
     }
 
